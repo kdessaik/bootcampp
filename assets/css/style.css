@@ -1,3 +1,37 @@
+
+
 .parra{
     color: rgb(255, 0, 0);
+}
+.hOne{
+    font-style: italic;
+}
+.hOne{
+    font-size: 30px;
+}
+
+
+
+
+#student{
+    color: blue;
+    font-size: 50px;
+}
+
+p.Name{
+    color: darkgreen;
+}
+.sectionThree p span {
+    color: aqua;
+    outline: 3px solid red;
+}
+
+
+
+.sectionTwo,.sectionThree{
+    color: red;
+   color: rgb(255,255, 255);
+   background-color: gray;
+   border: 5px solid burlywood ;
+   
 }
